@@ -146,7 +146,7 @@ As we saw above, there are **six** broken tests. Let's get them working.
   1 failing
 
   1) the local repository
-       has been pushed up to the remote repository:
+       hcdas been pushed up to the remote repository:
      AssertionError: no record of pushing to a remote was found. Follow the instructions on GitHub to connect and push to a new remote repository: value: expected './my-repository/.git/logs/refs/remotes' to exist
 ```
 
